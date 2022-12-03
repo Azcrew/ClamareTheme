@@ -111,6 +111,17 @@
         }
       }
     },
+    "traking": {
+        "name": "Traking",
+        "gtm": {
+            "label": "Google Tag Manager Container Id",
+            "info": "Insert here just your GTM Container Id"
+        },
+        "meta": {
+            "label": "Meta Pixel Id",
+            "info": "insert here just your Meta Pixel Id"
+        }
+    },
     "colors": {
       "name": "Colors",
       "settings": {
