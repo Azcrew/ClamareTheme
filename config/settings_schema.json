@@ -1077,14 +1077,19 @@
     ]
   },
   {
-    "name": "t:settings_schema.meta-pixel",
+    "name": "t:settings_schema.traking.name",
     "settings": [
-      {
-        "type": "text",
-        "id": "pixel",
-        "label": "Enter here just your Meta Pixel Id",
-        "info": "Meta Pixel Id, injected in pixel default code, with some security blocks"
-      }
+        {
+            "type": "text",
+            "id": "meta-pixel",
+            "label": "t:settings_schema.traking.meta.label",
+            "info": "t:settings_schema.traking.meta.info"
+        },{
+            "type": "text",
+            "id": "gtm-container",
+            "label": "t:settings_schema.traking.gtm.label",
+            "info": "t:settings_schema.traking.gtm.info"
+        }
     ]
   },
   {

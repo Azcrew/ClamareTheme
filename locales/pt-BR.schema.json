@@ -261,6 +261,17 @@
         }
       }
     },
+    "traking": {
+        "name": "Rastreamento",
+        "gtm": {
+            "label": "Google Tag Manager Container Id",
+            "info": "Insira o Id do seu container GTM"
+        },
+        "meta": {
+            "label": "Meta Pixel Id",
+            "info": "Insira o Id do seu Pixel Meta"
+        }
+    },
     "buttons": {
       "name": "Botões"
     },
