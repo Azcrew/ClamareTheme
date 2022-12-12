@@ -417,7 +417,7 @@
                       <button
                         type="submit"
                         name="add"
-                        onclick="javascript:setTimeout('location.href=/cart', 500)"
+                        onclick="location.href='/cart'"
                         class="product-form__submit button button--full-width {% if block.settings.show_dynamic_checkout %}button--secondary{% else %}button--primary{% endif %}"
                         {% if product.selected_or_first_available_variant.available == false %}
                           disabled
