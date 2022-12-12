@@ -703,7 +703,7 @@
         "min": 0,
         "max": 100,
         "step": 2,
-        "unit": "px",
+        "unit": "%",
         "label": "t:settings_schema.global.settings.corner_radius.label",
         "default": 50
       },
