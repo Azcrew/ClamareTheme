@@ -57,7 +57,7 @@
     "collection_card_color_scheme": "background-2",
     "collection_card_border_thickness": 0,
     "collection_card_border_opacity": 10,
-    "collection_card_corner_radius": 50,
+    "collection_card_corner_radius": 100,
     "collection_card_shadow_opacity": 0,
     "collection_card_shadow_horizontal_offset": 0,
     "collection_card_shadow_vertical_offset": 4,
@@ -163,7 +163,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Links Úteis",
+              "heading": "LINKS ÚTEIS",
               "menu": "footer"
             }
           },
@@ -177,8 +177,8 @@
           "afaaeaea-db08-4b6e-97a9-31269eb2168c": {
             "type": "text",
             "settings": {
-              "heading": "Central de Atendimento",
-              "subtext": "<p>Email: contato@clamare.com.br<\/p><p>Telefone: (51) 99206-9070<\/p><p>Atendimendo: Das 9h as 18h                            Seg à Sex<\/p><p>CNPJ: 37.724.097\/0001-95<\/p>"
+              "heading": "CENTRAL DE ATENDIMENTO",
+              "subtext": "<p>Email: contato@clamare.com.br<\/p><p>Telefone: (51) 99206-9070<\/p><p>Atendimendo: Das 9h as 18h<\/p><p>Seg à Sex<\/p><p>CNPJ: 37.724.097\/0001-95<\/p>"
             }
           }
         },
