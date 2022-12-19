@@ -127,11 +127,11 @@
         "alireviews-block-1670852310": {
           "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-box\/bf2eea72-0400-4db1-8908-44b7418f9a88",
           "settings": {
-            "name": "Review Box 1",
+            "name": "Avaliações",
             "vertical_alignment": "8",
-            "rating_color": "#1F1F1F",
+            "rating_color": "{{ shop.brand.colors.primary[0].foreground }}",
             "section_color": "#ffffff",
-            "primary_text_color": "#1F1F1F"
+            "primary_text_color": "#1f1f1f"
           }
         }
       },
