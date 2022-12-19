@@ -141,11 +141,17 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1629746450643786911": {
+      "type": "areviews-section",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "alireviews-section-1670852310"
+    "alireviews-section-1670852310",
+    "1629746450643786911"
   ]
 }
