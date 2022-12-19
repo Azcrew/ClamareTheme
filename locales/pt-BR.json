@@ -292,8 +292,8 @@
     },
     "collection_template": {
       "title": "Coleção",
-      "empty": "Nenhum produto encontrado",
-      "use_fewer_filters_html": "Usar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">remover tudo<\/a>"
+      "empty": "Ainda estamos preparando os produtos dessa categoria, em breve, novas ofertas para você!",
+      "use_fewer_filters_html": "Enquanto isso conheça <a class=\"{{ class }}\" href=\"{{ link }}\">nossa loja<\/a>"
     },
     "video": {
       "load_video": "Carregar vídeo: {{ description }}"
