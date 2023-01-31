@@ -119,6 +119,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
+    "favicon": "shopify:\/\/shop_images\/Clamare_Logos_Flat_1500_x_750_px_1.png",
     "currency_code_enabled": true,
     "cart_type": "page",
     "sections": {
