@@ -51,6 +51,7 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Perguntas Frequentes",
             "icon": "question_mark",
@@ -60,6 +61,7 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Metodo de Envio",
             "icon": "truck",
@@ -69,6 +71,7 @@
         },
         "a0d5dda3-2c80-4e90-b851-b696c78a5443": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Já comprou nosso produto? Avalie!",
             "icon": "check_mark",
@@ -123,21 +126,6 @@
     },
     "alireviews-section-1670852310": {
       "type": "apps",
-      "blocks": {
-        "alireviews-block-1670852310": {
-          "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-box\/bf2eea72-0400-4db1-8908-44b7418f9a88",
-          "settings": {
-            "name": "Avaliações",
-            "vertical_alignment": "8",
-            "rating_color": "{{ shop.brand.colors.primary[0].foreground }}",
-            "section_color": "#ffffff",
-            "primary_text_color": "#1f1f1f"
-          }
-        }
-      },
-      "block_order": [
-        "alireviews-block-1670852310"
-      ],
       "settings": {
         "include_margins": true
       }
