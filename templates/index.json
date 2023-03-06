@@ -19,10 +19,10 @@
     "03f8b019-0ccf-4041-85eb-2a3c209d73cc": {
       "type": "collection-list",
       "blocks": {
-        "template--16755169198397__03f8b019-0ccf-4041-85eb-2a3c209d73cc-16672406845054f922-0": {
+        "c91bdd72-ccb1-4aa9-9bf6-588bc9a5add7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "beleza"
+            "collection": "pets"
           }
         },
         "template--16755169198397__03f8b019-0ccf-4041-85eb-2a3c209d73cc-16672406845054f922-1": {
@@ -37,18 +37,18 @@
             "collection": "tech"
           }
         },
-        "c91bdd72-ccb1-4aa9-9bf6-588bc9a5add7": {
+        "template--16755169198397__03f8b019-0ccf-4041-85eb-2a3c209d73cc-16672406845054f922-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "pets"
+            "collection": "beleza"
           }
         }
       },
       "block_order": [
-        "template--16755169198397__03f8b019-0ccf-4041-85eb-2a3c209d73cc-16672406845054f922-0",
+        "c91bdd72-ccb1-4aa9-9bf6-588bc9a5add7",
         "template--16755169198397__03f8b019-0ccf-4041-85eb-2a3c209d73cc-16672406845054f922-1",
         "template--16755169198397__03f8b019-0ccf-4041-85eb-2a3c209d73cc-16672406845054f922-2",
-        "c91bdd72-ccb1-4aa9-9bf6-588bc9a5add7"
+        "template--16755169198397__03f8b019-0ccf-4041-85eb-2a3c209d73cc-16672406845054f922-0"
       ],
       "settings": {
         "title": "Coleções",
