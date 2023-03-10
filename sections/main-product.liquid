@@ -786,7 +786,7 @@
     endif
   -%}
   <script type="text/javascript">
-    console.log({{ product.selected_or_first_available_variant }}, `shopify_BR_{{product.id | json}}_{{product.selected_or_first_available_variant.sku | json}}`) 
+    console.log({{ product.selected_or_first_available_variant | json }}, `shopify_BR_{{product.id | json}}_{{product.selected_or_first_available_variant.sku | json}}`) 
   </script>
   <script type="application/ld+json">
     {
