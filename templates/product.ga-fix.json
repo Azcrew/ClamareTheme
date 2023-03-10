@@ -1,0 +1,145 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Perguntas Frequentes",
+            "icon": "question_mark",
+            "content": "<p>ELA ENROLA?<br\/>Não! Ela possui barbatanas com molas de aço inoxidável que faz com que a cinta não enrole! Além disso não machuca!<br\/><br\/>VOU RECEBER MEU CÓDIGO DE RASTREAMENTO?<br\/>Sim! Dentro de 2 a 3 dias utéis após o pagamento enviaremos por e-mail o código de rastreio para você acompanhar seu pedido 100% seguro!<br\/><br\/>QUANDO VOU RECEBER MEU PRODUTO?<br\/>O prazo de entrega é de 9 a 25 dias úteis após o pagamento podendo chegar antes!!<br\/><br\/>O SITE É SEGURO?<br\/>Esse site é totalmente seguro. Possui certificação ssl de segurança e o pagamento é processado através do Mercado Pago, uma das plataformas mais utilizadas para compras na internet no brasil, 100% segura e sigilosa.<br\/><br\/>POSSO COMPRAR EM OUTROS LUGARES?<br\/>Esse site é o canal de venda oficial da Cinta Modeladora Beauti Hips©, somente através desse site você garante que vai receber os produtos originais em sua casa com material de qualidade. A beauti hips© não é vendida em nenhum lugar físico e nem outros sites na internet. Cuidado com fraudes e falsificações. <br\/><br\/>DE QUE MATERIAL É FEITO A CINTA?<br\/>A Cinta Modeladora Beauti Hips©, é feita de poliamida 88% e elastano 12% o que permite a elasticidade sem irritar a pele.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Metodo de Envio",
+            "icon": "truck",
+            "content": "",
+            "page": "metodo-de-envio-pagina-do-produto"
+          }
+        },
+        "a0d5dda3-2c80-4e90-b851-b696c78a5443": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Já comprou nosso produto? Avalie!",
+            "icon": "check_mark",
+            "content": "<p>Sua avaliação é muito importante para nos, deixe seu comentario abaixo.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "a0d5dda3-2c80-4e90-b851-b696c78a5443"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "small",
+        "image_zoom": "hover",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "alireviews-section-1670852310": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1629746450643786911": {
+      "type": "areviews-section",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "alireviews-section-1670852310",
+    "1629746450643786911"
+  ]
+}
